@@ -8,7 +8,7 @@
 	"compatibleCoreVersion": "9.266",
 	"url": "https://github.com/grimmash/tors_cellar_of_death",
 	"manifest": "https://raw.githubusercontent.com/grimmash/tors_cellar_of_death/main/module.json",
-	"download": "https://github.com/grimmash/tors_cellar_of_death/archive/refs/tags/v1.1.0.zip",
+	"download": "https://github.com/grimmash/tors_cellar_of_death/archive/refs/tags/v1.0.0.zip",
 	"packs": [
 	{
 		"name": "tor_cellar_scenes",
