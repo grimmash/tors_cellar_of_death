@@ -1,14 +1,14 @@
 {
 	"name": "tors-cellar-of-death",
 	"title": "Tor's Cellar of Death",
-	"description": "High quality maps and the Cellar of Death.",
+	"description": "High quality maps for the Cellar of Death module.",
 	"author": "Grimmash and Tor",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"minimumCoreVersion": "9.266",
 	"compatibleCoreVersion": "9.266",
 	"url": "https://github.com/grimmash/tors_cellar_of_death",
 	"manifest": "https://raw.githubusercontent.com/grimmash/tors_cellar_of_death/main/module.json",
-	"download": "https://github.com/grimmash/tors_cellar_of_death/archive/refs/tags/1.0.3.zip",
+	"download": "https://github.com/grimmash/tors_cellar_of_death/archive/refs/tags/1.0.4.zip",
 	"packs": [
 	{
 		"name": "tor_cellar_scenes",
